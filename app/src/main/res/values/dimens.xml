@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="Key_Input_Height">48</dimen>
+    <dimen name="Key_Input_LayoutHeight">48dp</dimen>
+</resources>
